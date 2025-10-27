@@ -33,7 +33,7 @@ const IconButton = ({ title, onClick, children, className }) => (
     >
       {children}
     </button>
-  </Tooltip>
+  </Tooltip> //
 );
 
 const InlineSearchTask = ({ onSearch }) => {
